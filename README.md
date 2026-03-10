@@ -24,7 +24,7 @@
 - 🎓 **Bachelor of Engineering in Information Technology**  
   Savitribai Phule Pune University, India
 
-- 💡 Strong foundation in:
+- 💡 **Strong foundation in:**
   - Machine Learning
   - Deep Learning
   - Natural Language Processing
