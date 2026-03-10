@@ -8,7 +8,7 @@
     <td valign="top">
       <p>
         I'm <b>Rutika Avinash Kadam</b>, a <b>Data Scientist & Machine Learning Engineer</b> passionate about building intelligent systems that transform complex data into meaningful insights.
-        With experience in <b>AI, Machine Learning, Data Engineering, and Generative AI</b>, I enjoy solving real-world problems using scalable data-driven solutions and modern AI technologies.
+        With experience in <b>Data Science and Analytics, Machine Learning and Generative AI</b>, I enjoy solving real-world problems using scalable data-driven solutions and modern AI technologies.
       </p>
     </td>
   </tr>
@@ -29,6 +29,7 @@
   - Deep Learning
   - Natural Language Processing
   - Large Language Models
+  - Generative AI
   - Big Data Systems
 
 - 🔍 Passionate about building **AI-powered systems**, **RAG applications**, and **data pipelines** that turn raw data into actionable insights.
@@ -133,15 +134,15 @@
 # 🌐 Connect With Me
 
 - 📧 **Email:** rutikakadam2727@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/YOUR_LINK  
-- 💻 **GitHub:** https://github.com/YOUR_GITHUB  
-- 🌍 **Portfolio:** https://YOUR_PORTFOLIO
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rutika-avinash/
+- 💻 **GitHub:** https://github.com/RutikaKadam10 
+- 🌍 **Portfolio:** https://rutikakadam10.github.io/Portfolio-Rutika-Kadam/
 
 ---
 
 # ⚡ Fun Fact
 
-Beyond data science, I enjoy exploring emerging AI technologies such as **LLMs, Retrieval-Augmented Generation, and AI agents**, and building practical systems that combine **data engineering, machine learning, and generative AI**.
+Beyond Data Science, I enjoy painting, cooking and music. 
 
 ---
 
