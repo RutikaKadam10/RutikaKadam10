@@ -8,7 +8,7 @@
     <td valign="top">
       <p>
         I'm <b>Rutika Avinash Kadam</b>, a <b>Data Scientist & Machine Learning Engineer</b> passionate about building intelligent systems that transform complex data into meaningful insights.
-        With experience in <b>Data Science and Analytics, Machine Learning and Generative AI</b>, I enjoy solving real-world problems using scalable data-driven solutions and modern AI technologies.
+        With experience in <b>Data Science & Analytics, Machine Learning and Generative AI</b>, I enjoy solving real-world problems using scalable data-driven solutions and modern AI technologies.
       </p>
     </td>
   </tr>
