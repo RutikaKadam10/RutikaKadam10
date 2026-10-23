@@ -19,10 +19,10 @@
 # 🌟 About Me
 
 - 🎓 **Master’s in Data Science**  
-  Stony Brook University, New York (Graduated: May 2026)
+  **Stony Brook University, New York (Graduated: May 2026)**
 
 - 🎓 **Bachelor of Engineering in Information Technology**  
-  Savitribai Phule Pune University, India (Graduated: May 2020)
+  **Savitribai Phule Pune University, India (Graduated: May 2020)**
 
 - 💡 **Strong foundation in:**
   - Machine Learning
