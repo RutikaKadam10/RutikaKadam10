@@ -150,7 +150,7 @@ reaching R2 ≈ 0.51 (RMSE ≈ $62); boosting overfit.
 
 # 🌐 Connect With Me
 
-- 📧 **Email:** rutikakadam2727@gmail.com  
+- 📧 **Email:** rkadam1827@gmail.com
 - 💼 **LinkedIn:** https://www.linkedin.com/in/rutika-avinash/
 - 💻 **GitHub:** https://github.com/RutikaKadam10 
 - 🌍 **Portfolio:** https://rutikakadam10.github.io/Portfolio-Rutika-Kadam/
